@@ -1,4 +1,9 @@
-# marketing-analytics-end-end
+# marketing-analytics-end-end: SQL Database Design, Data Modeling & Power BI Dashboad
+
+   Designed and built an end-to-end marketing analytics by translating business requirements into
+   a relatinoal SQL database, implenting data models, performing analytical SQL queries, calculating
+   key marketing KPIs (CTR, CPA, ROAS, ROI), and developing an interactive Power BI dashboad to support
+   executive decision-making.
 
 ## Business Scenario
 **Company**
